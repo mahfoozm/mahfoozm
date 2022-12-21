@@ -1,5 +1,5 @@
 [![Introduction](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=26&duration=2500&color=00FFFF&multiline=true&repeat=false&width=435&height=75&lines=hi!;i'm+Mohammad.)](https://git.io/typing-svg)
-- ⚡ I'm currently a Software Engineering student at York University!
+- ⚡ I'm a Software Engineering student at York University!
 - 🔨 Currently learning ML/Computer Vision.
 
 ### Links
