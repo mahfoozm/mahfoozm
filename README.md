@@ -2,7 +2,7 @@
 - currently a 2nd year Software Engineering student at York University!
 
 ### 🔗 Links
-[LinkedIn](https://www.linkedin.com/in/mohammadmahfooz/) | [Resume](https://github.com/mahfoozm/mahfoozm/blob/13792bb8073bfde475f1db5871c32d144c5cda51/Mohammad_Mahfooz_Resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/mohammadmahfooz/) | [Resume](https://github.com/mahfoozm/mahfoozm/blob/main/Mohammad_Mahfooz_Resume.pdf)
 
 ### 👨🏼‍💻 Languages and Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
