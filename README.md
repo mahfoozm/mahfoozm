@@ -2,7 +2,7 @@
 - currently learning driver development! 
 
 ### 🔗 Links
-[LinkedIn](https://www.linkedin.com/in/mohammadmahfooz/) | [Resume](https://github.com/mahfoozm/mahfoozm/blob/main/Mohammad_Mahfooz_Resume.pdf)
+[Portfolio](https://www.mohammadmahfooz.engineer) | [Resume](https://github.com/mahfoozm/mahfoozm/blob/main/Mohammad_Mahfooz_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/mohammadmahfooz/)
 
 ### 👨🏼‍💻 Languages and Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
