@@ -1,5 +1,5 @@
 [![Introduction](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=26&duration=2000&color=00FFFF&multiline=true&repeat=false&width=435&height=75&lines=hi!;i'm+Mohammad.)](https://git.io/typing-svg)
-- currently playing with KDB (to understand the linux kernel better)
+- currently playing with KGDB (over ethernet) to understand the linux kernel better
 
 ### 🔗 Links
 [Portfolio](https://www.mohammadmahfooz.engineer) | [Resume](https://github.com/mahfoozm/mahfoozm/blob/main/Mohammad_Mahfooz_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/mohammadmahfooz/)
