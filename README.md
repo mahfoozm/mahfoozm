@@ -2,7 +2,7 @@
 - trying to learn rustlang
 
 ### 🔗 Links
-[Portfolio](https://www.mohammadmahfooz.engineer) | [Resume](https://github.com/mahfoozm/mahfoozm/blob/main/Mohammad_Mahfooz_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/mohammadmahfooz/)
+[Portfolio](https://www.mahfooz.tech) | [Resume](https://github.com/mahfoozm/mahfoozm/blob/main/Mohammad_Mahfooz_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/mohammadmahfooz/)
 
 ### 👨🏼‍💻 Languages
 
