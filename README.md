@@ -1,4 +1,3 @@
-[![Introduction](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=26&duration=2000&color=00FFFF&multiline=true&repeat=false&width=435&height=75&lines=hi!;i'm+Mohammad.)](https://git.io/typing-svg)
 - trying to learn rustlang
 
 ### 🔗 Links
