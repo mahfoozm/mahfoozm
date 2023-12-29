@@ -1,4 +1,4 @@
-- trying to learn rustlang
+- trying to learn rust
 
 ### 🔗 Links
 [Portfolio](https://www.mahfooz.tech) | [Resume](https://github.com/mahfoozm/mahfoozm/blob/main/Mohammad_Mahfooz_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/mohammadmahfooz/)
