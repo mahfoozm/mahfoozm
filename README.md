@@ -1,5 +1,3 @@
-- zzzzzz
-
 ### 🔗 Links
 [Portfolio](https://www.mahfooz.me) | [Resume](https://github.com/mahfoozm/mahfoozm/blob/main/Mohammad_Mahfooz_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/mohammadmahfooz/)
 
